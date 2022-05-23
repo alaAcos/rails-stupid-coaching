@@ -1,0 +1,25 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+h1 {
+  font-size: 40px;
+  font-family: monospace;
+}
+
+p {
+  font-size: medium;
+  font-family: monospace;
+}
+
+form {
+  background-color: rgb(207, 207, 207);
+  width: auto;
+  margin: 5px;
+  padding: 5px;
+  font-size: 40 px;
+  // height: 24px;
+  .text {
+    width: 50%;
+  }
+}
